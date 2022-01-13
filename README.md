@@ -3,8 +3,8 @@
 ### ✨ Quick Facts
 
 - 🔭 I’m currently working on my discord bot: [here](https://github.com/Jukelyn/Jukes-Genshin-Discord-Bot).
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-- 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+- 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends, trading crypto, watching LoL Esports**
 - 🤔  I’m looking to collaborate on: **New and intriguing open-source nextcord or Discord.js projects**
 - 📫 Let's connect! Reach me at: mahmed6@ncsu.edu
