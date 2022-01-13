@@ -7,7 +7,7 @@
 - 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends, trading crypto, watching LoL Esports**
 - 🤔  I’m looking to collaborate on: **New and intriguing open-source nextcord or Discord.js projects**
-- 📫 Let's connect! Reach me at: mahmed6@ncsu.edu
+- 📫 Let's connect! Reach me at: mahmed6@ncsu.edu or mehrazahmed2003@gmail.com
 
 
 ### 🛠️ Languages and Tools:
