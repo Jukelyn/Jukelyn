@@ -30,4 +30,5 @@
 
 ### 🔗 Related links:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mehraz-ahmed-07b315182" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mehraz-ahmed-07b315182?trk=profile-badge">LinkedIn</a></div>
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Jukelyn&theme=auto&extension=activity)](https://leetcode.com/Jukelyn)
