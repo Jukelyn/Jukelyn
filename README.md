@@ -3,7 +3,7 @@
 ### ✨ Quick Facts
 
 - 🔭 I’m currently working on my discord bot: [here](https://github.com/Jukelyn/Jukes-Genshin-Discord-Bot).
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white">
 - 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends, grinding LeetCode, watching LoL Esports**
 - 🤔  I’m looking to collaborate on: **New and intriguing open-source nextcord or Discord.js projects**
@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-00ffff.svg?style=plastic&logo=pandas&logoColor=white)
