@@ -3,7 +3,7 @@
 ### ✨ Quick Facts
 
 - 🔭 I’m currently working on bloomify: [here](https://github.com/Jukelyn/bloomify).
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white">
+- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
 - 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends (Diana main <3), Coding, Math, Playing with cats**
 - 🤔  I’m looking to collaborate on: **New and intriguing open-source nextcord or Discord.js projects**
