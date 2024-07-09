@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=plastic&logo=c&color=1a437e"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
 - 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends (Diana main <3), Coding, Math, Cats**
-- 🤔  I’m looking to collaborate on: **Pretty much anything in Python even Java**
+- 🤔  I’m looking to collaborate on: **Pretty much anything in Python or even Java**
 - 📫 Let's connect! Reach me at: mahmed6@ncsu.edu or a.mehraz.cs@gmail.com
 
 <hr />
