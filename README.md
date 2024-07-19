@@ -2,7 +2,7 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently working on CopyCat: [here](https://github.com/Jukelyn/CopyCat).
+- 🔭 I’m currently working on Calendar-Parser: [here](https://github.com/Jukelyn/Calendar-Parser).
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=plastic&logo=c&color=1a437e"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
 - 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing League of Legends (Diana main <3), Coding, Math, Cats**
