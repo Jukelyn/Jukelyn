@@ -2,18 +2,19 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently working on CalPal: [here](https://github.com/Jukelyn/CalPal).
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=plastic&logo=c&color=1a437e"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
-- 📚 I want to learn: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
-- 🎾 Hobbies: **Playing League of Legends (Diana main <3), Coding, Math, Cats**
-- 🤔  I’m looking to collaborate on: **Pretty much anything in Python or even Java**
+- 🔭 I’m currently working on my ACNH fish site [here](https://github.com/Jukelyn/acnh-fish-chart).
+- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
+- 📚 I want to learn: <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=plastic&logo=c&color=1a437e"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB">
+- 🎾 Hobbies: **Playing Animal Crossing and Hollow Knight, breaking tech, learning math, and enjoying cars**
+- 🤔  I’m looking to collaborate on: **Pretty much anything in Python or Java** and maybe web dev stuff...
 - 📫 Let's connect! Reach me at: mahmed6@ncsu.edu or a.mehraz.cs@gmail.com
 
 <hr />
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -32,12 +33,23 @@
 
 <hr />
 
-### 🔗 Related links:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mehraz-ahmed-07b315182?trk=profile-badge) &nbsp;
-<br>
-<br>
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukelyn&hide=reviews&theme=dark&show=commits,contribs,issues,prs,prs_merged,prs_merged_percentage&show_icons=true)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukelyn&theme=dark&layout=donut">
+</p>
+<p align="center">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=acnh-fish-chart">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=calpal">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=bloomify">
+</p>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&logoColor=#d16c06) <br /> 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=Jukelyn&theme=auto&extension=activity)](https://leetcode.com/Jukelyn)
 <hr />
 
+### 🔗 Related links (Clickable!)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehraza/)
+
+<div align="center">
+  
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/Jukelyn?theme=dark&ext=activity)](https://leetcode.com/Jukelyn)
+
+</div>
