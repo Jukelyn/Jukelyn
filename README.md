@@ -1,17 +1,20 @@
 # Hi there 👋, I'm [Mehraz](https://github.com/Jukelyn) 👨‍💻
 
+![Profile Views](https://komarev.com/ghpvc/?username=Jukelyn&label=Profile%20views&color=0e75b6&style=flat)
+
 ### ✨ Quick Facts
 
 - 🔭 I’m currently working on my ACNH fish site [here](https://github.com/Jukelyn/acnh-fish-chart).
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
 - 📚 I want to learn: <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=flat&logo=c&color=1a437e"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
 - 🎾 Hobbies: **Playing Animal Crossing and Hollow Knight, breaking tech, learning math, and enjoying cars**
-- 🤔  I’m looking to collaborate on: **Pretty much anything in Python or Java** and maybe web dev stuff...
+- 🤔 I’m looking to collaborate on: **Pretty much anything in Python or Java** and maybe web dev stuff...
 - 📫 Let's connect! Reach me at: mahmed6@ncsu.edu or a.mehraz.cs@gmail.com
 
 <hr />
 
 ### 🛠️ Languages and Tools:
+
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -46,6 +49,7 @@
 <hr />
 
 ### 🔗 Related links (Clickable!)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehraza/)
 
 <div align="center">
