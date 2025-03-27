@@ -1,8 +1,11 @@
-# Hi there 👋, I'm [Mehraz](https://github.com/Jukelyn) 👨‍💻
+# Hi there 👋, I'm [Jukelyn](https://github.com/Jukelyn) 👨‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jukelyn&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Jukelyn&label=Profile%20Views&color=0e75b6&style=flat)
+![Wakapi Time Daily](https://wakapi.jukelyn.com/api/badge/Jukelyn/interval:today?label=Code%20Time%20Today)
 
-### ✨ Quick Facts
+<hr />
+
+### ✨ About Me:
 
 - 🔭 I’m currently working on my ACNH fish site [here](https://github.com/Jukelyn/acnh-fish-chart).
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
