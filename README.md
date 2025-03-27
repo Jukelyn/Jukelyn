@@ -1,9 +1,6 @@
 # Hi there 👋, I'm [Jukelyn](https://github.com/Jukelyn) 👨‍💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jukelyn&label=Profile%20Views&color=0e75b6&style=flat)
-![Wakapi Time Daily](https://wakapi.jukelyn.com/api/badge/Jukelyn/interval:today?label=today)
-
-<hr />
 
 ### ✨ About Me:
 
