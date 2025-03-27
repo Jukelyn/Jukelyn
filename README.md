@@ -42,6 +42,7 @@
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukelyn&hide=reviews&theme=dark&show=commits,contribs,issues,prs,prs_merged,prs_merged_percentage&show_icons=true)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukelyn&theme=dark&layout=donut">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jukelyn&api_domain=wakapi.jukelyn.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact">
 </p>
 <p align="center">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=acnh-fish-chart">
