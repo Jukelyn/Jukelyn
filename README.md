@@ -46,7 +46,7 @@
 
 <hr />
 
-### 🔗 Related links (Clickable!)
+### 🔗 Related Links (Clickable!)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehraza/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Jukelyn)
@@ -56,3 +56,13 @@
   [![Leetcode Stats](https://leetcard.jacoblin.cool/Jukelyn?theme=dark&ext=activity)](https://leetcode.com/Jukelyn)
 
 </div>
+
+<hr />
+
+### 💾 Homelab
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-00314b?style=for-the-badge&logo=traefikproxy&labelColor=%2300314b)
