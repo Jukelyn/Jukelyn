@@ -59,56 +59,61 @@
 
 <hr />
 
+<div align="center">
+
 ### 💾 Homelab
 
 **Operating Systems and Hardware:**
   
-![Apple](https://img.shields.io/badge/-Apple%20mac%20mini-%23000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu%2022.04.5%20LTS-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+  ![Apple](https://img.shields.io/badge/-Apple%20mac%20mini-%23000000?style=for-the-badge&logo=apple&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu%2022.04.5%20LTS-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-%23C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Debian](https://img.shields.io/badge/-Debian%20GNU%2FLinux%2012%20(bookworm)-%23A81D33?style=for-the-badge&logo=debian)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-%23C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  ![Debian](https://img.shields.io/badge/-Debian%20GNU%2FLinux%2012%20(bookworm)-%23A81D33?style=for-the-badge&logo=debian)
 
-![mikrotik](https://img.shields.io/badge/-CSS610--8G--2S%2B-%23293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![mikrotik](https://img.shields.io/badge/-MikroTik%20SwOS-%23293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+  ![mikrotik](https://img.shields.io/badge/-CSS610--8G--2S%2B-%23293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+  ![mikrotik](https://img.shields.io/badge/-MikroTik%20SwOS-%23293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 **DNS:**
-
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Porkbun](https://img.shields.io/badge/porkbun-%23EF7878.svg?style=for-the-badge&logo=porkbun&logoColor=white)
+  
+  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+  ![Porkbun](https://img.shields.io/badge/porkbun-%23EF7878.svg?style=for-the-badge&logo=porkbun&logoColor=white)
 
 **Reverse Proxy:**
 
-![NPM](https://img.shields.io/badge/NPM-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/-traefik%20v2-%2300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Traefik](https://img.shields.io/badge/-traefik%20v2-%2300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 **VPN:**
-
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
+  
+  ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+  ![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 
 **Containerization:**
 
-![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Self Hosting:**
 
-![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-![LetsEncrypt](https://img.shields.io/badge/letsencrypt-%23003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=00A4DC)
-![QbitTorrent](https://img.shields.io/badge/qbittorrent-%232F67BA.svg?style=for-the-badge&logo=qbittorrent&logoColor=white)
-![Sonarr](https://img.shields.io/badge/sonarr-%232596BE.svg?style=for-the-badge&logo=sonarr&logoColor=white)
-![Radarr](https://img.shields.io/badge/radarr-%23FFCB3D.svg?style=for-the-badge&logo=radarr&logoColor=white)
-![Immich](https://img.shields.io/badge/immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white)
-![Homeassistant](https://img.shields.io/badge/homeassistant-%2318BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white)
-![VaultWarden](https://img.shields.io/badge/vaultwarden-%23000000.svg?style=for-the-badge&logo=vaultwarden&logoColor=white)
-![Wakatime](https://img.shields.io/badge/wakapi-%23000000.svg?style=for-the-badge&logo=wakatime&logoColor=white)
-![diagramsdotnet](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+  ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+  ![LetsEncrypt](https://img.shields.io/badge/letsencrypt-%23003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=00A4DC)
+  ![QbitTorrent](https://img.shields.io/badge/qbittorrent-%232F67BA.svg?style=for-the-badge&logo=qbittorrent&logoColor=white)
+  ![Sonarr](https://img.shields.io/badge/sonarr-%232596BE.svg?style=for-the-badge&logo=sonarr&logoColor=white)
+  ![Radarr](https://img.shields.io/badge/radarr-%23FFCB3D.svg?style=for-the-badge&logo=radarr&logoColor=white)
+  ![Immich](https://img.shields.io/badge/immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white)
+  ![Homeassistant](https://img.shields.io/badge/homeassistant-%2318BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white)
+  ![VaultWarden](https://img.shields.io/badge/vaultwarden-%23000000.svg?style=for-the-badge&logo=vaultwarden&logoColor=white)
+  ![Wakatime](https://img.shields.io/badge/wakapi-%23000000.svg?style=for-the-badge&logo=wakatime&logoColor=white)
+  ![diagramsdotnet](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
 
 **Monitoring:**
 
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![UptimeKuma](https://img.shields.io/badge/uptimekuma-%235CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=white)
-![MySpeed](https://img.shields.io/badge/MySpeed-%23141526.svg?style=for-the-badge&logo=speedtest&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  ![UptimeKuma](https://img.shields.io/badge/uptimekuma-%235CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=white)
+  ![MySpeed](https://img.shields.io/badge/MySpeed-%23141526.svg?style=for-the-badge&logo=speedtest&logoColor=white)
+
+</div>
