@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
@@ -101,7 +101,7 @@
   ![LetsEncrypt](https://img.shields.io/badge/letsencrypt-%23003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=00A4DC)
   ![QbitTorrent](https://img.shields.io/badge/qbittorrent-%232F67BA.svg?style=for-the-badge&logo=qbittorrent&logoColor=white)
   ![Sonarr](https://img.shields.io/badge/sonarr-%232596BE.svg?style=for-the-badge&logo=sonarr&logoColor=white)
-  ![Radarr](https://img.shields.io/badge/radarr-%23FFCB3D.svg?style=for-the-badge&logo=radarr&logoColor=white)
+  ![Radarr](https://img.shields.io/badge/radarr-%23FFCB3D.svg?style=for-the-badge&logo=radarr&logoColor=black)
   ![Immich](https://img.shields.io/badge/immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white)
   ![Homeassistant](https://img.shields.io/badge/homeassistant-%2318BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white)
   ![VaultWarden](https://img.shields.io/badge/vaultwarden-%23000000.svg?style=for-the-badge&logo=vaultwarden&logoColor=white)
@@ -113,7 +113,7 @@
 
   ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-  ![UptimeKuma](https://img.shields.io/badge/uptimekuma-%235CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=white)
+  ![UptimeKuma](https://img.shields.io/badge/uptimekuma-%235CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=black)
   ![MySpeed](https://img.shields.io/badge/MySpeed-%23141526.svg?style=for-the-badge&logo=speedtest&logoColor=white)
 
 </div>
