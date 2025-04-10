@@ -4,7 +4,7 @@
 
 ### ✨ About Me:
 
-- 🔭 I’m currently working on my ACNH fish site [here](https://github.com/Jukelyn/acnh-fish-chart).
+- 🔭 I’m currently working on my markdown badge generator site [here](https://badge-maker.jukelyn.com/) ([repo](https://github.com/Jukelyn/badge-maker)).
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> 
 - 📚 I want to learn: <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=flat&logo=c&color=1a437e">
 - 🎾 Hobbies: **Playing Animal Crossing and Hollow Knight, breaking tech, learning math, and enjoying cars**
