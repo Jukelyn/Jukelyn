@@ -4,11 +4,14 @@
 
 ### ✨ About Me:
 
+I'm an experienced full-stack developer with a strong focus on React with TypeScript, I'm very passionate about building clean, efficient, and user-friendly web applications. On the frontend, I specialize in creating dynamic interfaces with React, leveraging modern tools like Next.JS with TypeScript, Tailwind CSS, shadcn. On the backend, I build scalable APIs using Python, usually with Flask.
+
+I enjoy solving problems, optimizing user experiences, and continuously learning new technologies to sharpen my skill set. Whether it's designing intuitive UI components or architecting backend logic, I thrive at the intersection of functionality and design.
+
 - 🔭 I’m currently working on my templists site [here](https://templists.jukelyn.com/) ([repo](https://github.com/Jukelyn/templists)).
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> 
 - 📚 I want to learn: <img alt="Static Badge" src="https://img.shields.io/badge/c-label?style=flat&logo=c&color=1a437e">
 - 🎾 Hobbies: **Playing Animal Crossing and Hollow Knight, breaking tech, learning math, and enjoying cars**
-- 🤔 I’m looking to collaborate on: **Pretty much anything in Python or Java** and maybe web dev stuff...
+- 🤔 I’m looking to collaborate on: **Pretty much anything in TypeScript or Python** and maybe web dev stuff...
 - 📫 Let's connect! Reach me at: mahmed6@ncsu.edu or a.mehraz.cs@gmail.com
 
 <hr />
@@ -19,10 +22,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flatdge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
