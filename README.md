@@ -42,9 +42,11 @@ I enjoy solving problems, optimizing user experiences, and continuously learning
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukelyn&theme=dark&layout=donut">
 </p>
 <p align="center">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=badge-maker">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=useful-sites">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=yapper">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=templists">
   <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=acnh-fish-chart">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=calpal">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jukelyn&repo=bloomify">
 </p>
 
 <hr />
